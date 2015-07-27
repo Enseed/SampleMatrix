@@ -1,4 +1,6 @@
-#include "Matrix.h"
+#include <Enseed/Generic/Geometry/Matrix.h>
+
+using namespace seed;
 
 int main(int argc, const char *argv[])
 {
